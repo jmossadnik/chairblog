@@ -1,0 +1,15 @@
+title: makhro
+tagline: hanseatic economics 
+description: blog of the chair of applied macroeconomics, WSF, University of Rostock
+
+author:
+  name:   Johannes Michael Ossadnik
+  url:    https://www.vwl.uni-rostock.de/institut/professuren-i/angewandte-makrooekonomie-prof-dr-britta-gehrke/team/johannes-michael-ossadnik/
+
+plugins:
+  - jekyll-paginate
+
+paginate: 2
+
+categories_path: /categories/
+tags_path: /tags/
