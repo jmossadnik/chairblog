@@ -1,6 +1,6 @@
 ---
 title: "Datenschutzerklärung"
-permalink: /privacy.html
+permalink: /privacy/
 ---
 
 <h1>Datenschutzerklärung</h1>
