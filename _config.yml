@@ -5,7 +5,7 @@ description: blog of the chair of applied macroeconomics, WSF, University of Ros
 author:
   name:   Johannes Michael Ossadnik
   url:    https://www.vwl.uni-rostock.de/institut/professuren-i/angewandte-makrooekonomie-prof-dr-britta-gehrke/team/johannes-michael-ossadnik/
-  image: /assets/images/cam_logo2.png
+  avatar: /assets/images/cam_logo2.png
 
 plugins:
   - jekyll-paginate
