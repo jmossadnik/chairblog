@@ -1,5 +1,5 @@
 ---
 layout: archive
 type: categories
-title: Archive by Years
+title: Archive by categories
 ---
