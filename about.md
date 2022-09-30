@@ -13,9 +13,9 @@ permalink: /about/
 Welcome to the blog of the chair.
 The following pages provide insights into the work and research of out the chair. In addition, theses, projects and seminar papers of students are published here, as well as hints and tips on research and teaching.
 
-**Lehrstuhl für Angewandte Makroökonomie
-Universität Rostock
-Ulmenstraße 69
+**Lehrstuhl für Angewandte Makroökonomie <br>
+Universität Rostock <br>
+Ulmenstraße 69 <br>
 DE-18057 Rostock**
 
 <a href="https://www.vwl.uni-rostock.de/institut/professuren-i/angewandte-makrooekonomie-prof-dr-britta-gehrke/">Official homepage</a> <br>
