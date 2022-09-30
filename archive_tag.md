@@ -1,5 +1,5 @@
 ---
 layout: archive
 type: tags
-title: Archive by Years
+title: Archive by tags
 ---
