@@ -30,15 +30,15 @@ $screen-desktop: 1024px;
   --sidebar-accent-color: var(--oc-white);
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   :root {
-    --body-bg:          var(--oc-gray-9);
+    --body-bg:          var(--oc-gray-2);
     --body-fg:          var(--oc-gray-8);
     --body-color-light: var(--oc-gray-6);
-    --body-color:       var(--oc-gray-3);
+    --body-color:       var(--oc-gray-8);
     --body-color-dark:  var(--oc-white);
-    --accent-color:     var(--oc-blue-3);
-    --message-color:    var(--oc-green-3);
+    --accent-color:     var(--oc-orange-7);
+    --message-color:    var(--oc-red-5);
   }
 }
 
