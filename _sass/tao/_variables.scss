@@ -25,9 +25,9 @@ $screen-desktop: 1024px;
   --body-font-size:   16px;
 
   --sidebar-width:        16rem;
-  --sidebar-bg:           var(--oc-gray-8);
-  --sidebar-color:        var(--oc-gray-5);
-  --sidebar-accent-color: var(--oc-white);
+  --sidebar-bg:           var(--oc-gray-2);
+  --sidebar-color:        var(--oc-gray-9);
+  --sidebar-accent-color: var(--oc-orange-5);
 }
 
 @media (prefers-color-scheme: light) {
